@@ -28,6 +28,7 @@ This is a desktop application built using **C++ and Qt Framework** that solves n
 - Qt Framework
 - OOP Concepts
 - Numerical Analysis Algorithms
+- 
  ▶️ How to Run
 1. Open project in Qt Creator
 2. Build the project
