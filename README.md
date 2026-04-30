@@ -12,27 +12,34 @@ This is a desktop application built using **C++ and Qt Framework** that solves n
 - Newton-Raphson Method
 - Secant Method
 - Fixed Point Iteration
+- 
 -  📚Linear Algebra Methods:
 - Cramer's Rule
 - Gaussian Elimination
 - Gauss-Jordan Elimination
 - LU Decomposition
+- 
 🧠 Key Features
+
 - Step-by-step solution display
 - Custom mathematical expression parser
 - Support for precision and rounding control
 - GUI built with Qt
 - Error handling for invalid inputs
+- 
  🛠️ Technologies Used
+
 - C++
 - Qt Framework
 - OOP Concepts
 - Numerical Analysis Algorithms
 - 
  ▶️ How to Run
+
 1. Open project in Qt Creator
 2. Build the project
 3. Run the application
+   
 👩‍💻 Author
 Nada Hossam## 📚 
 
